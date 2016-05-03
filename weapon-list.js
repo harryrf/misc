@@ -25,7 +25,7 @@ var weapons = [
     },
 // handguns, each gets 150 rounds, altogether.
     { 
-    	weapon_id: 01,
+      weapon_id: 01,
       search_name: "glock",
       name: "Glock 19",
       type: "handgun",
