@@ -24,7 +24,7 @@ var weapons = [
       attachment: false
     },
 // handguns, each gets 150 rounds, altogether.
-    { 
+    {
       weapon_id: 01,
       search_name: "glock",
       name: "Glock 19",
@@ -35,7 +35,7 @@ var weapons = [
       attachment: "laser light"
     },
     {
-    	weapon_id: 02,
+      weapon_id: 02,
       search_name: "deagle",
       name: "Desert Eagle",
       type: "handgun",
