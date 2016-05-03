@@ -45,8 +45,8 @@ var weapons = [
       attachment: "wrist watch" // because, what else would you need?
     },
 // assault rifles get 300 rounds altogether, shotguns 200, sniper rifles 250
-    { 
-    	weapon_id: 03,
+    {
+      weapon_id: 03,
       search_name: "ak47",
       name: "AK-47",
       type: "Assault Rifle",
