@@ -5,7 +5,7 @@
  *     # Add functionality
  *   
  *   # Long Term:
- *	   # Make it so giveWeapon(arg, arg); will accept a user id's and weapon id's
+ *	   # Make it so giveWeapon(arg, arg); will accept user id's and weapon id's
  *
  * Working example at https://repl.it/CFti/0
  * ---
